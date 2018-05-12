@@ -1,0 +1,31 @@
+_repo: La-Vie-en-FamilleComment-Vivre---Deux-_39156
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 39156-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Gausseron, Bernard Henri
+    aliases:
+    - Gausseron, Bernard-Marie-Henri
+    - Gausseron, Bernard-Henri
+    birthdate: 1845
+    deathdate: 1913
+    gutenberg_agent_id: '39868'
+    url: http://www.gutenberg.org/2009/agents/39868
+description: ''
+gutenberg_bookshelf: FR Education et Enseignement
+gutenberg_issued: '2012-03-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39156'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Marriage'
+- !lcc 'HQ'
+- !lcsh 'Family life'
+title: 'La Vie en Famille: Comment Vivre à Deux?'
+url: http://www.gutenberg.org/ebooks/39156
